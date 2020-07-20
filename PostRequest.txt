@@ -1,0 +1,5 @@
+POST (name of application in form /something/something/something/)HTTPS/1.1
+Host: nameofhost.io
+application/json"
+content-length:198
+    "{"temp": 54,"robotName": "freight71"}
